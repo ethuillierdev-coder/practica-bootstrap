@@ -8,3 +8,6 @@ if (btnTop) {
         window.scrollTo({ top: 0, behavior: "smooth"});
     });
 }
+
+// Este es un metodo para generar un cuadro de alerta
+window.alert('Hola Mundo');
